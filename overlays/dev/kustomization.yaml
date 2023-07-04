@@ -8,4 +8,4 @@ resources:
 - namespace.yaml
 images:
 - name: jaychang99/gitops
-  newTag: "74"
+  newTag: 66f1118c533c51773c8f89e0437889625ba7d5e7
